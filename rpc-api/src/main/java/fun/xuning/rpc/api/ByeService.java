@@ -5,6 +5,7 @@ package fun.xuning.rpc.api;
  */
 public interface ByeService {
     //branch test
+    //pull test
     String bye(String name);
 
 }
